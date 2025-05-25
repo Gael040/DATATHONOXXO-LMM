@@ -6,4 +6,4 @@ Gael Arnulfo Ordaz Zamora
 Natalia Sofía Guevara Hernández
 Alejandro A. Martinez
 
-En app/streamlit se incorpora toda la solución.
+En app/streamlit_app.py se incorpora toda la solución.
